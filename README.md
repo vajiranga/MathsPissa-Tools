@@ -1,2 +1,1 @@
-# MathsPissa-Tools
-MathsPissa's first web site
+# Maths Pissa Project
